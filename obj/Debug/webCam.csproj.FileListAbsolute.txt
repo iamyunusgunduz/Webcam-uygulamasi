@@ -1,0 +1,17 @@
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.Form1.resources
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.Properties.Resources.resources
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\webCam\bin\Debug\webCam.exe.config
+C:\Users\yns3g\source\repos\webCam\bin\Debug\webCam.exe
+C:\Users\yns3g\source\repos\webCam\bin\Debug\webCam.pdb
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.dll
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.Video.dll
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.xml
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.Video.xml
+C:\Users\yns3g\source\repos\webCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.csproj.CopyComplete
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.exe
+C:\Users\yns3g\source\repos\webCam\obj\Debug\webCam.pdb
